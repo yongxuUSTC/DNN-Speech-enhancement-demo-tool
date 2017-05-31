@@ -1,0 +1,4 @@
+Segmental SNR:
+3.392618
+Log-Spectral Distortion:
+10.548547
