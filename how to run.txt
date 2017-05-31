@@ -1,0 +1,38 @@
+
+DNN based speech enhancement tool (developed by Dr. yong xu)
+
+Note: Matlab should be installed in your PC first. Perl should be installed in your PC.
+This zip contains the best DNN model trained by us.
+This exe can be used to enhance any noisy speech, even from real world noisy speech!
+
+Enhancing steps:
+
+1 step0: clear all of the files in "wav_lsp", and then copy all of your noisy waveforms into "wav_lsp"
+
+2 step1: in Matlab, JUST RUN "step1_DNNenh_for16kHz.m" without any parameters to be tuned and then all of the noisy waveforms will be obtained in "wav_lsp"
+(There is a noisy 16kHz waveform in wav_lsp/timit_noisy_SNR5.wav  as an example)
+
+or you can just click: step1_DNNenh_for16kHz.exe, everything will be done for you!
+
+
+
+
+all is done!!!
+
+The related enhanced demos:
+http://home.ustc.edu.cn/~xuyong62/demo/IS15.html
+http://home.ustc.edu.cn/~xuyong62/demo/SE_DNN_taslp.html
+
+If you have any questions, please feel free to contact Dr. Yong XU (yong.xu.ustc@gmail.com)
+
+Please cite:
+[1] Multi-objective learning and Mask-based Post-processing for Deep Neural Network based Speech Enhancement.
+Yong Xu, Jun Du, Zhen Huang, Li-Rong Dai, Chin-Hui Lee, accepted, Interspeech2015, Dresden, Germany
+[2] A Regression Approach to Speech Enhancement Based on Deep Neural Networks.
+Yong Xu, Jun Du, Li-Rong Dai and Chin-Hui Lee, accepted to IEEE/ACM Transactions on Audio, Speech, and Language Processing, P. 7-19, Vol.
+23, No. 1, IEEE/ACM trans. on audio, speech, language processing, 2015
+[3] An Experimental Study on Speech Enhancement Based on Deep Neural Networks.
+Yong Xu, Jun Du, Li-Rong Dai and Chin-Hui Lee, IEEE signal processing letters, p. 65-68, vol. 21, no. 1, January 2014
+[4] SPEECH SEPARATION METHOD AND SYSTEM, US patent, US 20160189730A1
+
+Note: if you want to use it for commercial product, please contact Dr. Yong XU (yong.xu.ustc@gmail.com)
