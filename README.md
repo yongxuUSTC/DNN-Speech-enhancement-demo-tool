@@ -1,3 +1,5 @@
+This code is only for research. If you want to use it for commercial reason, please contact me: yong.xu.ustc@gmailc.om
+
 # DNN-Speech-enhancement-demo-tool
 Universal Deep neural network based speech enhancement demo and tools, well pre-trained DNN model
 
