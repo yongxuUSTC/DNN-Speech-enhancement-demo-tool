@@ -29,6 +29,6 @@ Please cite the following papers if you use this code:
 
 [3] Multi-Objective Learning and Mask-Based Post-Processing for Deep Neural Network Based Speech Enhancement, Yong Xu, Jun Du, Zhen Huang, Li-Rong Dai, Chin-Hui Lee, Interspeech2015
 
-Some DNN based speech enhancemen demos:
+Some DNN based speech enhancemen demos: 
 
 http://staff.ustc.edu.cn/~jundu/The%20team/yongxu/demo/SE_DNN_taslp.html http://staff.ustc.edu.cn/~jundu/The%20team/yongxu/demo/IS15.html
