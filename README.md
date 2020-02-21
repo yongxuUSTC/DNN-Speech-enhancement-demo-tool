@@ -34,3 +34,4 @@ Some DNN based speech enhancemen demos:
 http://staff.ustc.edu.cn/~jundu/The%20team/yongxu/demo/SE_DNN_taslp.html http://staff.ustc.edu.cn/~jundu/The%20team/yongxu/demo/IS15.html
 
 [<img src="https://img.youtube.com/vi/Z4quxzXR5yw/maxresdefault.jpg" width="50%">](https://youtu.be/Z4quxzXR5yw)
+<video src="video.mp4" width="320" height="200" controls preload></video>
