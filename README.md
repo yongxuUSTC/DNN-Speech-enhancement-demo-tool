@@ -32,3 +32,5 @@ Please cite the following papers if you use this code:
 Some DNN based speech enhancemen demos: 
 
 http://staff.ustc.edu.cn/~jundu/The%20team/yongxu/demo/SE_DNN_taslp.html http://staff.ustc.edu.cn/~jundu/The%20team/yongxu/demo/IS15.html
+
+[<img src="https://img.youtube.com/vi/<VIDEO ID>/maxresdefault.jpg" width="50%">](https://youtu.be/<VIDEO ID>)
