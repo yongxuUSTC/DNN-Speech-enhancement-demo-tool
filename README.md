@@ -4,7 +4,7 @@ This code is only for research. If you want to use it for commercial reason, ple
 # DNN-Speech-enhancement-demo-tool
 Universal Deep neural network based speech enhancement demo and tools, well pre-trained DNN model
 
-the model/weights can be downloaded here: https://drive.google.com/file/d/0B5r5bvRpQ5DRR1lIV1hpZ0RLQ0E/view?usp=sharing 
+the model/weights can be downloaded here: https://drive.google.com/file/d/1Wg14r0m41kWv2ja-stBkq2uZgjOP5yME/view?usp=sharing  or https://drive.google.com/file/d/0B5r5bvRpQ5DRR1lIV1hpZ0RLQ0E/view?usp=sharing 
 also in the config/*   , or you can download from  (@ Baidu Yun) http://pan.baidu.com/s/1eRJGrx4
 
 GPU code for Deep neural network (DNN) based speech enhancement can be found here: https://github.com/yongxuUSTC/DNN-for-speech-enhancement
